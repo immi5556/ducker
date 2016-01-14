@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ducker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mulview">Ducker</string>
+    <string name="title_activity_abs">Ducker</string>
+    <string name="title_activity_vul_mul">Duck Jails</string>
+    <string name="scoringtv">scoringtv</string>
+</resources>
